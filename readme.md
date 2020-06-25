@@ -8,6 +8,6 @@ A simple script to be called from
 
 Usage:
 
-curl https://raw.githubusercontent.com/ARambazamba/AzAutomation/master/script.sh | bash
+curl https://raw.githubusercontent.com/ARambazamba/AzAutomation/master/remote-script.sh | bash
 
 >Note: A raw url can beproduced using the "Raw" Button
